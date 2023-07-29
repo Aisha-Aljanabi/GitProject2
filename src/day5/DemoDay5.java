@@ -9,4 +9,7 @@ public static void main(String[] args) {
 	public void getData(){
 		system.out.println("Data");
 	}	
+
+public static void getInfo() {
+	System.out.println("Temp...");
 }
