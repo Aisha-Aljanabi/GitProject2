@@ -5,4 +5,8 @@ public static void main(String[] args) {
 	
 	System.out.println("Hot");
 }
+
+	public void getData(){
+		system.out.println("Data");
+	}	
 }
